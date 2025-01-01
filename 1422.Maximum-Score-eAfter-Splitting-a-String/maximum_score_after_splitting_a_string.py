@@ -1,5 +1,5 @@
 """
-LeetCode link to the problem: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+LeetCode link to the problem: https://leetcode.com/problems/maximum-score-after-splitting-a-string/
 
 """
 
